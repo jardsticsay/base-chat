@@ -22,7 +22,7 @@ import { ChatroomComponent } from './chatroom/chatroom.component';
 import { FeedComponent } from './feed/feed.component';
 import { MessageComponent } from './message/message.component';
 import { LoginFormComponent } from './login-form/login-form.component';
-import { AngularFireDatabase } from 'angularfire2/database-deprecated';
+import { AngularFireDatabase } from 'angularfire2/database';
 
 @NgModule({
   declarations: [
